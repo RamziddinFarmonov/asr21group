@@ -10,23 +10,22 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Hujjatuz21 | Professional xizmatlar markazi",
   description: "IT xizmatlari, buxgalteriya va hujjat tayyorlash xizmatlari. Professional jamoa – ishonchli natija.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/pic/logo.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/pic/logo.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/pic/logo.png",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-icon.png",
+    apple: "/pic/logo.png",
   },
 }
 
