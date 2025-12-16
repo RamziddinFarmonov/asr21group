@@ -278,8 +278,8 @@ export default function ITServicesPage() {
                 </div>
                 <div className="flex items-center gap-2 justify-center md:justify-start">
                   <Phone className="w-4 h-4 text-primary" />
-                  <a href="tel:+998557012700" className="text-muted-foreground hover:text-primary transition-colors">
-                    +998 55 701 27 00
+                  <a href="tel:+998557012100" className="text-muted-foreground hover:text-primary transition-colors">
+                    +998 55 701 21 00
                   </a>
                 </div>
                 <div className="flex items-center gap-2 justify-center md:justify-start">
